@@ -1,0 +1,16 @@
+date,book,chapter_slug,word_count,sources_count,verify_flag_count,pantry_notes_found,pantry_lib_files_used,thin_pantry,mechanism_explained,contested_claims_flagged
+2026-05-17,homes-of-hope-plus-one,01-professional-register,3759,5,0,yes,0,no,"Indian Standard Business English as the legitimate register target — Kachru/Sailaja outer-circle variety, not deficient",0
+2026-05-17,homes-of-hope-plus-one,02-ai-as-work-tool,4492,4,0,yes,0,no,"Two-step prompt-then-review workflow as the Bastani GPT-Tutor scaffold rendered for Priya as her own wrapper around GPT Base",0
+2026-05-17,homes-of-hope-plus-one,03-the-cv,4590,6,3,yes,0,no,"AI-drafts-she-decides workflow applied to CV — sisters' training rendered into CV-grade language without inflation",1
+2026-05-17,homes-of-hope-plus-one,04-the-job-search,5120,8,3,yes,0,no,"Two-of-three heuristic + AI-as-posting-interpreter — Mohr 2014 gender-confidence gap as the cost-of-not-applying lever",0
+2026-05-17,homes-of-hope-plus-one,05a-the-call-structure,6551,5,2,yes,0,no,"Seven-move BPO call structure as formulaic-language acquisition (Wray 2002) that survives cognitive load",0
+2026-05-17,homes-of-hope-plus-one,05b-medical-vocabulary-tier-1,4850,4,2,yes,0,no,"50 most-common hospital-reception terms grouped by frequency and category — Anki deck design brief + Priya-readable teaching",1
+2026-05-17,homes-of-hope-plus-one,05c-report-and-proposal-english,5654,9,8,yes,0,no,"Donor pays for outcomes / program tracks inputs — situation-summary paragraph and funding-request sentence as the two load-bearing forms",0
+2026-05-17,homes-of-hope-plus-one,06a-handling-difficult-calls,8041,8,5,yes,0,no,"HEARD de-escalation framework + Hochschild emotional-labor framing + L1-reversion-under-cognitive-load explained as normal",0
+2026-05-17,homes-of-hope-plus-one,06b-patient-communication,5552,7,5,yes,0,no,"AIDET protocol applied to Indian hospital reception — the patient-is-not-a-customer register substitution as the load-bearing move",0
+2026-05-17,homes-of-hope-plus-one,06c-donor-and-partner-communication,6446,8,0,yes,0,no,"International donor introduction email — cultural register errors (kindly do the needful etc.) named explicitly as credibility-killers",0
+2026-05-17,homes-of-hope-plus-one,07a-the-phone-screen,9430,7,5,yes,0,no,"Indian BPO entry-level filter is structure-under-load not accent — Sailaja 2009 + present-past-future-with-pivot answer structure",0
+2026-05-17,homes-of-hope-plus-one,07b-the-healthcare-interview,5986,5,2,yes,0,no,"Hospital-front-desk interview filter is composure + dignity — patient-not-customer substitution reinforced from 06b",0
+2026-05-17,homes-of-hope-plus-one,07c-the-ngo-interview,6824,6,4,yes,0,no,"Redirect-to-capability move protects the candidate from the charitable-interview failure mode — story is 30 seconds then pivot to capability",1
+2026-05-17,homes-of-hope-plus-one,08-the-mock-interview,7750,7,1,yes,0,no,"15-minute feedback debrief is the load-bearing pedagogical event (Pekrun control-value + Hattie-Timperley) — not the 15-minute interview",0
+2026-05-17,homes-of-hope-plus-one,09-the-first-week,8737,11,6,yes,0,no,"Punctuality + the right clarification phrase keep the job (Bauer-Erdogan four-factor newcomer adjustment) — English fluency alone does not",0
