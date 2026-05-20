@@ -89,3 +89,65 @@ for f in chapters/*-updated.md; do mv "$f" "${f/-updated/}"; done
 ## Publish
 
 Upload `output/homes-of-hope-plus-one.epub` to [KDP](https://kdp.amazon.com).
+
+---
+
+## What This Book Is
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## Who This Book Is For
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## How to Read It
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## Table of Contents
+
+| Chapter | Title | File |
+|---------|-------|------|
+| 1 | Unit 1 — Professional Register | [chapters/01-professional-register.md](chapters/01-professional-register.md) |
+| 2 | Unit 2 — AI as Work Tool | [chapters/02-ai-as-work-tool.md](chapters/02-ai-as-work-tool.md) |
+| 3 | Unit 3 — The CV | [chapters/03-the-cv.md](chapters/03-the-cv.md) |
+| 4 | Unit 4 — The Job Search | [chapters/04-the-job-search.md](chapters/04-the-job-search.md) |
+| 5 | Unit 5A — The Call Structure | [chapters/05a-the-call-structure.md](chapters/05a-the-call-structure.md) |
+| 5 | Unit 5B — Medical Vocabulary Tier 1 | [chapters/05b-medical-vocabulary-tier-1.md](chapters/05b-medical-vocabulary-tier-1.md) |
+| 5 | Unit 5C — Report and Proposal English | [chapters/05c-report-and-proposal-english.md](chapters/05c-report-and-proposal-english.md) |
+| 6 | Unit 6A — Handling Difficult Calls | [chapters/06a-handling-difficult-calls.md](chapters/06a-handling-difficult-calls.md) |
+| 6 | Unit 6B — Patient Communication | [chapters/06b-patient-communication.md](chapters/06b-patient-communication.md) |
+| 6 | Unit 6C — Donor and Partner Communication | [chapters/06c-donor-and-partner-communication.md](chapters/06c-donor-and-partner-communication.md) |
+| 7 | Unit 7A — The Phone Screen | [chapters/07a-the-phone-screen.md](chapters/07a-the-phone-screen.md) |
+| 7 | Unit 7B — The Healthcare Interview | [chapters/07b-the-healthcare-interview.md](chapters/07b-the-healthcare-interview.md) |
+| 7 | Unit 7C — The NGO Interview | [chapters/07c-the-ngo-interview.md](chapters/07c-the-ngo-interview.md) |
+| 8 | Unit 8 — The Mock Interview | [chapters/08-the-mock-interview.md](chapters/08-the-mock-interview.md) |
+| 9 | Unit 9 — The First Week | [chapters/09-the-first-week.md](chapters/09-the-first-week.md) |
+
+---
+
+## Signature Simulations
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## Copyright
+
+Copyright © 2026 Nik Bear Brown. All rights reserved.
+
+Published by Bear Brown, LLC.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means without the prior written permission of the
+publisher, except in the case of brief quotations in critical reviews and
+certain other noncommercial uses permitted by copyright law.
+
+ISBN: [INSERT ISBN]
+
